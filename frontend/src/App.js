@@ -27,10 +27,7 @@ function App() {
           </span>
           <Chat />
           <h2>
-            Share this link to get connected:
-            <a href="http://localhost:3000" target="_blank" id="share">
-              Link
-            </a>
+            Share the link to get connected!
           </h2>
         </div>
       )}
